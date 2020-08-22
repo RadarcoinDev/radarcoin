@@ -1,0 +1,3 @@
+usr/local/bin/radarcoind usr/bin
+usr/local/bin/radarcoin-cli usr/bin
+debian/examples/radarcoin.conf etc/radarcoin

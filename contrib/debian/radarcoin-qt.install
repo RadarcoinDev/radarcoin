@@ -1,0 +1,6 @@
+usr/local/bin/radarcoin-qt usr/bin
+share/pixmaps/radarcoin32.xpm usr/share/pixmaps
+share/pixmaps/radarcoin16.xpm usr/share/pixmaps
+share/pixmaps/radarcoin128.png usr/share/pixmaps
+debian/radarcoin-qt.desktop usr/share/applications
+debian/radarcoin-qt.protocol usr/share/kde4/services/

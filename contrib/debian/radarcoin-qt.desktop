@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Radarcoin Core
+Comment=Radarcoin P2P Cryptocurrency
+Comment[fr]=Radarcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Radarcoin, eşten eşe kriptografik sanal para birimi
+Exec=radarcoin-qt %u
+Terminal=false
+Type=Application
+Icon=radarcoin128
+MimeType=x-scheme-handler/radarcoin;
+Categories=Office;Finance;
+StartupWMClass=Radarcoin-qt
